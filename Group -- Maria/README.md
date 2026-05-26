@@ -6,4 +6,4 @@
 ### how to inspect the pull request and peer review
 ### Private rule: no tokens, private data, or screenshots of acocunts
 
-Each time can be verified in the repository 
+## Each time can be verified in the repository 
