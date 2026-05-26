@@ -1,4 +1,4 @@
-# BBS -Operation Anallytics
+# BBS -Operation Analytics
 
 ### Course and group identifier
 ### Folder convention
