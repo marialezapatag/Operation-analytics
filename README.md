@@ -1,6 +1,6 @@
 # Operation Analytics
 
-Repository for the Operation Analytics course at Bologna Business School.
+Repository for the Operation Analytics course
 
 ## Structure
 - `lecture 1/` - Exercises from lecture 1
